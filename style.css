@@ -1,0 +1,126 @@
+#header
+    {
+	position: fixed;
+	top: 20em;
+	left: 5em;
+    }
+
+#connectblock
+    {
+    position: fixed;
+	top: 15em;
+	left: 50em;
+    }
+
+#topbar
+    {
+	position: fixed;
+	top: 15em;
+	left: 5em;
+    }
+
+#Twitterblock
+    {
+    position: fixed;
+	top: 20em;
+	left: 53em;
+    }
+
+#container
+    {
+    position: fixed;
+	top: 25em;
+    left: 5em;
+    width: 750px;
+	margin: 0 auto;
+    }
+
+#logosblock
+    {
+    position: fixed;
+	top: 30em;
+    left: 5em;
+    width: 600px;
+	margin: 0 auto;
+    }
+
+#footer 
+    {
+    position: fixed;
+    top: 35em;
+    left: 5em;
+    }
+
+body
+	{
+	background-image: url("images/banner.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font: 14px "Helvetica", cursive;
+    text-align: justify;
+ 
+	}
+
+h1
+	{
+	font: 25px "Helvetica", cursive, bold, strong;
+	font-weight: bold;
+	color: #000;
+    }
+
+h2
+	{
+	font: 20px "Helvetica", cursive;
+	font-weight: bold;
+	color: #ee3e80;
+	}
+
+
+#block
+	{
+	text-indent: 20px;
+	}
+
+p.content
+	{
+	font: 14px "Helvetica", cursive;
+	text-align: justify;
+	}	
+
+ul
+	{
+	font: 14px "Helvetica", cursive;
+	list-style-position: outside;
+	}
+	
+li
+	{
+	list-style-type: circle;
+	}
+
+ul.navigation
+	{
+	font: 14px "Helvetica", cursive;
+	width: 570px;
+	padding: 15px;
+	margin: 0px auto 0px auto;
+	text-align: right;
+	}
+
+li.menu
+	{
+	font: 14px "Helvetica", cursive;
+	list-style-type: none;
+	display: inline;
+	margin: 0px 3px;
+	}
+
+ul.services
+	{
+	}
+
+li.content
+	{
+	font: 14px "Helvetica", cursive;
+	}	
+
