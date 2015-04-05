@@ -27,14 +27,12 @@
     <!-- Content div-->
     <div id="container">
         <p class="content">
-            I am an experienced Software Development Manager and Agile Coach, currently coaching teams in Agile software delivery at MixRadio, a global music streaming service.
+            I am an experienced Software Development Manager and Agile Coach, currently coaching teams in Agile software delivery at MixRadio.
             <br><br>
-           I've been an advocate of Agile since 2002, when I first successfully adopted eXtreme Programming onto a team delivering a bespoke CRM for Deloitte and Touche.  Since 2002, I’ve managed and coached many software delivery teams using eXtreme Programming, SCRUM and Kanban, and have repeatedly seen the benefits Agile brings to teams and organisational culture.  I have a successfuly track record of helping organisations adopt agile, and have experience of applying agile to all environments from start-ups to corporates.  I've gained experience working at some great Agile organisations, from Conchango, Nokia and Microsoft.
+           I've been an advocate of Agile since 2002, when I successfully adopted eXtreme Programming onto a team delivering a bespoke CRM for Deloitte and Touche.  Since 2012, I’ve managed and coached many software delivery teams using eXtreme Programming, SCRUM, Lean and Kanban, and have repeatedly seen the benefits Agile brings to an organisation.  I’ve worked with some great Agile organisations, from Conchango, Nokia and Microsoft, and I’ve helped a number of organisations adopt Agile software delivery practices.
             <br><br>
-            I started coding 'basic' on a Commodore Pet in 1979, and my first jobs in the 90's were working on large scale Geographical Information Systems (GIS) and their relational databases.  Following on from my MSc in 1996, I became a commercial Software Engineer and Technical Architect, working on large scale consumer eCommerce and Integration solutions for top brands in the UK and Europe, before becoming the Technical Director of a successful dot.com start-up.  An aptitude and passion for Agile led me to the coaching role I now fulfil.
-            <br><br>
-	    I live on the Mendip Hills is Somerset, in the South West of England, with my wife and two young children.
-</p>
+            I started coding 'basic' on a Commodore Pet in 1979, and my first jobs were working on large scale Geographical Information Systems (GIS) and their relational databases.  Following on from my MSc in 1996, I became a commercial Software Engineer and Technical Architect, working on large scale consumer eCommerce and Integration solutions for top brands in the UK and Europe, before becoming the Technical Director of a successful dot.com start-up.  An aptitude and passion for Agile led me to the coaching role I now fulfil.
+        </p>
     </div>
 
     <div id="connectblock">
